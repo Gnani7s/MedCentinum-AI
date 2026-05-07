@@ -1,0 +1,17 @@
+{
+  "name": "MedCentinum AI",
+  "short_name": "MedCentinum",
+  "description": "AI-powered health pathogen detection and monitoring platform.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#06111f",
+  "theme_color": "#06111f",
+  "icons": [
+    {
+      "src": "/medcentinum-icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
